@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.texto-container {
+text-align: center;
+}
+
+.azul-text, .rojo-text {
+font-weight: bold; 
+font-size: 30px;
+}
+
+.azul-text {
+color: blue;
+}
+
+.rojo-text {
+color: red;
+margin-top: 10px; 
+}

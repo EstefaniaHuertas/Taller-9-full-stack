@@ -1,0 +1,36 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+}
+
+.data-table {
+width: 70%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 20px auto;
+border-collapse: collapse;
+background-color: #FFFF00; /* Amarillo */
+}
+
+.data-table tr {
+    padding: 10px;
+    border: 1px dotted #000; /* Borde negro para las celdas */
+}
+
+.header-cell {
+color: #FF0000; /* Rojo */
+text-align: center;
+padding: 10px;
+}
+
+.data-table td {
+text-align: left;
+padding: 10px;
+border: 1px dotted #000; /* Borde negro para las celdas */
+}
+
+.table-paragraph {
+color: #000; /* Negro */
+margin: 10px;
+}

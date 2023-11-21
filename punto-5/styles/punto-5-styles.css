@@ -1,0 +1,43 @@
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 20px 0 0 0;
+line-height: 200%;
+}
+
+/* Estilo para la palabra subrayada y de color verde */
+.verde-subrayado {
+color: green;
+text-decoration: underline;
+}
+
+/* Estilo para la palabra roja */
+.roja {
+color: red;
+font-weight: bold;
+}
+
+/* Estilo para la palabra subrayada arriba y abajo */
+.subrayado-arriba-abajo {
+text-decoration: underline overline;
+}
+
+/* Estilo para la palabra más grande y en negrita */
+.grande-negrita {
+font-size: 2em;
+font-weight: bold;
+}
+
+/* Estilo para la palabra azul y con negrita */
+.azul-negrita {
+color: blue;
+font-weight: bold;
+}
+
+/* Estilo para la palabra roja y subrayada */
+.roja-subrayada {
+color: red;
+text-decoration: underline;
+font-weight: bold;
+}

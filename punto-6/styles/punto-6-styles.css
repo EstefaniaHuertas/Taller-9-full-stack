@@ -1,0 +1,29 @@
+body {
+font-family: Arial, sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 20px 0 0 0;
+line-height: 200%;
+font-size: 30px;
+font-family: I;
+}
+
+.contenedor {
+text-align: center;
+}
+
+.negrita-negra {
+color: black;
+font-weight: bold;
+}
+
+.link-amarillo {
+color: yellow;
+text-decoration: underline;
+}
+
+.link-morado {
+color: purple;
+font-weight: bold;
+}
